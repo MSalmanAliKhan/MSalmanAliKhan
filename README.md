@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.licdn.com/dms/image/D4D16AQFNM-52EtDpgQ/profile-displaybackgroundimage-shrink_350_1400/0/1693276365715?e=1698883200&v=beta&t=hk-ttHPxLJAoZ-YWRZiiqPyPOddwwahsr5nDzBIfzoI)]
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFNM-52EtDpgQ/profile-displaybackgroundimage-shrink_350_1400/0/1693276365715?e=1698883200&v=beta&t=hk-ttHPxLJAoZ-YWRZiiqPyPOddwwahsr5nDzBIfzoI)
 <h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
 <h3 align="center">Data Detective</h3>
 
