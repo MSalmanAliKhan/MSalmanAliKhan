@@ -13,27 +13,27 @@
 - ⚡ Fun fact **I feel smarter when wearing glasses**
 
 <h3 align="left">Spreadsheet Softwares:</h3>
-- Microsoft Excel (Power Query and Pivot)
-- Google Sheets
+* Microsoft Excel (Power Query and Pivot)
+* Google Sheets
 
 <h3 align="left">Visualization Software:</h3>
-- Microsoft Power BI
-- Tableau
+* Microsoft Power BI
+* Tableau
 
 <h3 align="left">Query Languages:</h3>
-- MySQL 
-- SQL Server
-- Big Query
+* MySQL 
+* SQL Server
+* Big Query
 
 <h3 align="left">Programming Languages:</h3>
-- Python 
-- R
+* Python 
+* R
 
 <h3 align="left">Project Management Tools:</h3>
-- Microsoft Project
+* Microsoft Project
 
 <h3 align="left">Reporting Tools:</h3>
-- Microsoft Word
-- Microsoft Power Point
-- Google Docs
-- Google Slides
+* Microsoft Word
+* Microsoft Power Point
+* Google Docs
+* Google Slides
