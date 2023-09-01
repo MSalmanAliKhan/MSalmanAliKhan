@@ -12,10 +12,28 @@
 
 - ⚡ Fun fact **I feel smarter when wearing glasses**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadsalmanaliikhan2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsalmanaliikhan2021" height="30" width="40" /></a>
-</p>
+<h3 align="left">Spreadsheet Softwares:</h3>
+- Microsoft Excel (Power Query and Pivot)
+- Google Sheets
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Visualization Software:</h3>
+- Microsoft Power BI
+- Tableau
+
+<h3 align="left">Query Languages:</h3>
+- MySQL 
+- SQL Server
+- Big Query
+
+<h3 align="left">Programming Languages:</h3>
+- Python 
+- R
+
+<h3 align="left">Project Management Tools:</h3>
+- Microsoft Project
+
+<h3 align="left">Reporting Tools:</h3>
+- Microsoft Word
+- Microsoft Power Point
+- Google Docs
+- Google Slides
