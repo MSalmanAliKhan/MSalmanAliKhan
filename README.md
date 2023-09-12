@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
 <h3 align="center">Data Detective</h3>
 
-- 🔭 I’m currently working on [Unicorn Startups](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Unicorn%20Startups)
+- 🔭 Last completed project is [Unicorn Startups](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Unicorn%20Startups)
 
 - 🌱 I’m currently learning **Python and R libraries**
 
