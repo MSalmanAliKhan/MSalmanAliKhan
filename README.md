@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
 <h3 align="center">Data Detective</h3>
 
-- 🔭 I am currently doing [Sentiment Analysis][(https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Retail%20Analytics%20(R-Programming))](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis%20(Python))
+- 🔭 I am currently doing [Sentiment Analysis](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Retail%20Analytics%20(R-Programming))(https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis%20(Python))
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
