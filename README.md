@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MSalmanAliKhan/Data-Science-Projects](https://github.com/MSalmanAliKhan/Data-Science-Projects)
+- 👨‍💻 All of my projects are available at [Data Science Projects](https://github.com/MSalmanAliKhan/Data-Science-Projects)
 
 - 📫 How to reach me **sasalmana2012@gmail.com**
 
