@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
 <h3 align="center">Data Detective</h3>
 
-- 🔭 I am currently doing [Sentiment Analysis](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/Twitter-Sentiment-Analysis(SQL%2BPython))
+- 🔭 I am currently doing [Regional Sales Analysis](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/US-Regional-Sales(PowerBI%2BExcel))
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Advanced SQL Queries**
 
 - 👨‍💻 All of my projects are available at [Data Science Projects](https://github.com/MSalmanAliKhan/Data-Science-Projects)
 
-- 📫 How to reach me **sasalmana2012@gmail.com**
+- 📫 How to reach me **sasalmana2021@gmail.com**
 
 - ⚡ Fun fact **I feel smarter when wearing glasses**
 
