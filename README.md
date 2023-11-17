@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
 <h3 align="center">Data Detective</h3>
 
-- 🔭 I am currently doing [Regional Sales Analysis](https://github.com/MSalmanAliKhan/Data-Science-Projects/tree/main/US-Regional-Sales(PowerBI%2BExcel))
+- 🔭 I am currently looking into **Cloud Technology**
 
 - 🌱 I’m currently learning **Advanced SQL Queries**
 
