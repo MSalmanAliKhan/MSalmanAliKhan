@@ -1,5 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFNM-52EtDpgQ/profile-displaybackgroundimage-shrink_350_1400/0/1693276368998?e=1705536000&v=beta&t=NdCbKErFCbMeY8sG2Jw3pTH0BjGB7rsnsNZRTegIfr8)
-<h1 align="center">Hi 👋, I'm M Salman Ali Khan</h1>
+![Image](https://github.com/user-attachments/assets/d2540d1e-de11-4f69-ab0c-e0ecd240654e)
+<h1 align="center">Currently working as a Data Engineer in the production environment of Afiniti</h1>
 <h3 align="center">Data Detective</h3>
 
 - 🔭 I am currently looking into **Cloud Technology**
