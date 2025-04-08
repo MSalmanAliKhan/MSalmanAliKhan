@@ -29,7 +29,7 @@
 <ul>
   <li>MySQL</li>
   <li>SQL Server</li>
-  <li>Big Query</li>
+  <li>Postgres</li>
 </ul> 
 
 <h3 align="left">Programming Languages:</h3>
