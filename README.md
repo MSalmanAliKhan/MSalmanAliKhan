@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/d2540d1e-de11-4f69-ab0c-e0ecd240654e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2540d1e-de11-4f69-ab0c-e0ecd240654e" alt="Description of Image">
+</p>
 <h1 align="center">Currently working as a Data Engineer in the production environment of Afiniti</h1>
 <h3 align="center">Data Detective</h3>
 
