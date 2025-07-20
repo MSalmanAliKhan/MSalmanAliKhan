@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my independent projects are available at [Data Science Projects](https://github.com/MSalmanAliKhan/Data-Science-Projects)
 
-- 💻 Check out my employment-based projects in my [LinkedIn Projects](https://www.linkedin.com/in/muhammadsalmanalikhan2021/details/projects/)
+- 💻 Check out my employment-based projects in my [LinkedIn Projects](https://www.linkedin.com/in/muhammadsalmanalikhan2021/details)
 
 - 📫 How to reach me **msalmanalikhan2021@gmail.com**
 
