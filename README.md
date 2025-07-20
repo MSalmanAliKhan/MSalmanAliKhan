@@ -4,21 +4,15 @@
 <h2 align="center">Currently working as a Data Engineer in the production environment of Afiniti</h1>
 <h3 align="center">Data Detective</h3>
 
-- 🔭 I am currently looking into **Cloud Technology**
+- 🔭 I am currently looking into **Machine Learning Modeling**
 
-- 🌱 I’m currently learning **Advanced SQL Queries**
+- 🌱 I’m currently learning **MLOPs**
 
 - 👨‍💻 All of my projects are available at [Data Science Projects](https://github.com/MSalmanAliKhan/Data-Science-Projects)
 
-- 📫 How to reach me **sasalmana2021@gmail.com**
+- 📫 How to reach me **msalmanalikhan2021@gmail.com**
 
 - ⚡ Fun fact **I feel smarter when wearing glasses**
-
-<h3 align="left">Spreadsheet Softwares:</h3>
-<ul>
-  <li>Microsoft Excel (Power Query and Pivot)</li>
-  <li>Google Sheets</li>
-</ul>
 
 <h3 align="left">Visualization Software:</h3>
 <ul>
@@ -37,12 +31,19 @@
   <li>Python</li>
   <li>R</li>
 </ul> 
-
+<h3 align="left">WorkFlow Management Software:</h3>
+<ul>
+  <li>Airflow</li>
+</ul>
 <h3 align="left">Project Management Tools:</h3>
 <ul>
   <li>Microsoft Project</li>
 </ul> 
-
+<h3 align="left">Spreadsheet Softwares:</h3>
+<ul>
+  <li>Microsoft Excel (Power Query and Pivot)</li>
+  <li>Google Sheets</li>
+</ul>
 <h3 align="left">Reporting Tools:</h3>
 <ul>
   <li>Microsoft Word</li>
