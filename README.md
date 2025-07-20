@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/d2540d1e-de11-4f69-ab0c-e0ecd240654e" alt="Description of Image">
 </p>
 <h2 align="center">Currently working as a Production Engineer at Afiniti</h1>
-<h3 align="center">Data Analyst</h3>
-
 - 🔭 I am currently looking into **Machine Learning Modeling**
 
 - 🌱 I’m currently learning **MLOPs**
